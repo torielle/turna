@@ -1,2 +1,0 @@
-# turna
-turna project
