@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0fe7c27a-b3a2-4365-bc5d-e5c2bf4aa773" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-bg1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner-bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,17 +18,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="578">
+              <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -59,7 +65,7 @@
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
-    <option name="height" value="969" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,208 +98,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/animate.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/bootstrap.min.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/isotope.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/styles.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/css/font-awesome.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/css/font-awesome.min.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/FontAwesome.otf</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/fontawesome-webfont.eot</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/fontawesome-webfont.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/fontawesome-webfont.ttf</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/fontawesome-webfont.woff</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.eot</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.ttf</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.woff</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/bordered-pulled.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/core.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/fixed-width.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/font-awesome.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/icons.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/larger.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/list.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/mixins.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/path.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/rotated-flipped.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/spinning.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/stacked.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/less/variables.less</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_bordered-pulled.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_core.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_fixed-width.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_icons.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_larger.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_list.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_mixins.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_path.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_rotated-flipped.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_spinning.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_stacked.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/_variables.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/font/scss/font-awesome.scss</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/4.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/5.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/arrows.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/banner-bg1.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/banner-bg2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/banner-bg3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/feature-img-1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/home.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/img.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/links-arrow.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/logo.PNG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/message.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/photo-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/photo-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/photo-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/photo-4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/6.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/7.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/work/8.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/bootstrap.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/custom.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/Descr.WD3</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/blank.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/fancybox_loading.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/fancybox_loading_402x.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/fancybox_overlay.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/fancybox_sprite.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/fancybox_sprite_402x.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/jquery.fancybox.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/fancybox/jquery.fancybox.pack.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery-1.8.2.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery.fittext.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery.isotope.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery.isotope.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery.nav.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/modernizr-latest.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/AjaxLoader.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/grabbing.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/owl.carousel.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/owl.carousel.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/owl.theme.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/owl-carousel/owl.transitions.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/waypoints.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xeofus\WebstormProjects\turna\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -317,7 +125,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540052215570</updated>
-      <workItem from="1540052217774" duration="2098000" />
+      <workItem from="1540052217774" duration="3015000" />
+      <workItem from="1540061512863" duration="1750000" />
     </task>
     <task id="LOCAL-00001" summary="logo">
       <created>1540052541488</created>
@@ -333,11 +142,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540052642415</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="logo">
+      <created>1540054340641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540054340641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2098000" />
+    <option name="totallyTimeSpent" value="4765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -345,21 +161,21 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32909605" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +189,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="logo" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="147" selection-start-line="25" selection-start-column="114" selection-end-line="25" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -392,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="578">
+          <caret line="34" column="72" lean-forward="true" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
         </state>
       </provider>
     </entry>
