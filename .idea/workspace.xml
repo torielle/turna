@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0fe7c27a-b3a2-4365-bc5d-e5c2bf4aa773" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature-img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/feature-img-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,13 +21,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+            <state relative-caret-position="549">
+              <caret line="140" column="78" lean-forward="true" selection-start-line="140" selection-start-column="78" selection-end-line="140" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#i#0;n#b#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -59,6 +51,7 @@
       <find>insta</find>
       <find>fac</find>
       <find>ins</find>
+      <find>feature-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,7 +147,7 @@
       <updated>1540052215570</updated>
       <workItem from="1540052217774" duration="3015000" />
       <workItem from="1540061512863" duration="1883000" />
-      <workItem from="1540112015486" duration="13847000" />
+      <workItem from="1540112015486" duration="16700000" />
     </task>
     <task id="LOCAL-00001" summary="logo">
       <created>1540052541488</created>
@@ -184,11 +177,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540064125618</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="изменены разделы: контакты, архитектура">
+      <created>1540129637772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540129637772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18745000" />
+    <option name="totallyTimeSpent" value="21598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -222,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="logo" />
     <MESSAGE value="add comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
+    <MESSAGE value="изменены разделы: контакты, архитектура" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменены разделы: контакты, архитектура" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -234,6 +235,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -284,13 +286,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="69" column="41" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+        <state relative-caret-position="549">
+          <caret line="140" column="78" lean-forward="true" selection-start-line="140" selection-start-column="78" selection-end-line="140" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#img#0;n#i#0;n#b#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
