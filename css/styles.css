@@ -338,7 +338,7 @@ color:#F89F9F;
 
 .logo {
 	width: 170px;
-	height: 71px;
+	height: 53px;
 	font-size: 2.2em;
 	text-shadow: none;
 	margin: 0;
@@ -711,8 +711,8 @@ img, video, iframe, embed, object {
 }
 #portfolio .filters li a {
 	color: #999;
-	font-weight: 600;
-	text-transform: uppercase;
+	text-transform: inherit;
+	width: 25%;
 }
 #portfolio .filters li a, #portfolio .filters li a:hover, #portfolio .filters li a:focus {
 	color: #8fc843;
