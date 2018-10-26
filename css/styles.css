@@ -226,6 +226,7 @@ color:#F89F9F;
 .header {
 	position: fixed;
 	width: 100%;
+	height: auto;
 	background: #fff;
 	z-index: 50;
 	border-radius: 0;
